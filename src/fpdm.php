@@ -8,7 +8,7 @@
 *@package fpdftk                                                               *
 *@version 2.9                                                                  *
 *@date    2017-05-11                                                           *
-*@author  0livier                                                              *
+*@author  Godwill Barasa                                                              *
 *@todo in the importance order, natively by fpdm                               *
 *	 -stream inline support (content change,repack,offset/size calculations)   *
 *	 -pdf inline protection                                                    *
